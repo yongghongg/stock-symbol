@@ -1,0 +1,2 @@
+include stock-symbols/data/*.csv
+include stock-symbols/data/*.json
