@@ -1,6 +1,6 @@
 # Introduction
 
-Stocksymbol connects to the [StockSymbol API](https://stock-symbols.herokuapp.com/) that I created and provides a list of stock symbols from all major stock exchanges across various regions and markets.
+Stocksymbol connects to the [StockSymbol API](https://stock-symbol.herokuapp.com/) that I created and provides a list of stock symbols from all major stock exchanges across various regions and markets.
 
 # Quick Start
 
@@ -12,7 +12,7 @@ pip install stocksymbol
 
 ## Get an API key
 
-You can register for a free API key [here](https://stock-symbols.herokuapp.com/).
+You can register for a free API key [here](https://stock-symbol.herokuapp.com/).
 
 ## Symbol list
 
