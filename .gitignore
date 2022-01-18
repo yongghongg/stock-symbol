@@ -1,1 +1,6 @@
-/setup.cfg
+setup.cfg
+.vscode/
+build/
+stocksymbol.egg-info
+dist
+stocksymbol/__pycache__

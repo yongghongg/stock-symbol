@@ -1,13 +1,13 @@
 import requests
 
-_BASE_URL_ = 'http://localhost:3001/api/'
+_BASE_URL_ = 'https://stock-symbols.herokuapp.com/api/'
 
 _UNAUTHORIZED_ = 401
 _NOT_FOUND_ = 404
 _INVALID_KEY_ = 'Invalid API Key'
 _SERVER_ERROR_ = 'Something is wrong. Please contact the creator'
 
-class StockSymbols():
+class StockSymbol():
   def __init__(self, api_key: str):
       self._base_url = _BASE_URL_
       self.api_key = api_key
@@ -60,3 +60,11 @@ class StockSymbols():
         raise
       except:
         raise Exception(_SERVER_ERROR_)
+
+  @property
+  def market_list(self):
+    return self.get_market_list()
+
+  @property
+  def index_list(self):
+    return self.get_index_list()
