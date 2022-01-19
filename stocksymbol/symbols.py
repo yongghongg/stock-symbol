@@ -1,6 +1,6 @@
 import requests
 
-_BASE_URL_ = 'https://stock-symbols.herokuapp.com/api/'
+_BASE_URL_ = 'https://stock-symbol.herokuapp.com/api/'
 
 _UNAUTHORIZED_ = 401
 _NOT_FOUND_ = 404
