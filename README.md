@@ -1,6 +1,6 @@
 # Introduction
 
-Stocksymbol connects to the [StockSymbol API](https://stock-symbol.herokuapp.com/) that I created to provide a list of stock symbols from all major stock exchanges across various regions and markets.
+[Stocksymbol](https://pypi.org/project/stocksymbol/) connects to the [StockSymbol API](https://stock-symbol.herokuapp.com/) that I created to provide a list of stock symbols from all major stock exchanges across various regions and markets.
 
 # Quick Start
 
