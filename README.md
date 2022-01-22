@@ -1,6 +1,6 @@
 # Introduction
 
-Stocksymbol connects to the [StockSymbol API](https://stock-symbol.herokuapp.com/) that I created and provides a list of stock symbols from all major stock exchanges across various regions and markets.
+Stocksymbol connects to the [StockSymbol API](https://stock-symbol.herokuapp.com/) that I created to provide a list of stock symbols from all major stock exchanges across various regions and markets.
 
 # Quick Start
 
@@ -36,5 +36,5 @@ index_list = ss.index_list
 ```
 
 # Further reads
-Check out this blog post for a detailed tutorial with output examples and the motivation behind stocksymbol.
+Check out this blog post (coming soon) for a detailed tutorial with output examples and the motivation behind stocksymbol.
 
