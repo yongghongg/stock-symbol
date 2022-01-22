@@ -6,7 +6,7 @@
 
 ## Install package
 
-```
+```python
 pip install stocksymbol
 ```
 
@@ -16,7 +16,7 @@ You can register for a free API key [here](https://stock-symbol.herokuapp.com/).
 
 ## Symbol list
 
-```
+```python
 from stocksymbol import StockSymbol
 
 api_key = '<your API key here>'
