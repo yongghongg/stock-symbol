@@ -36,5 +36,5 @@ index_list = ss.index_list
 ```
 
 # Further reads
-Check out this blog post (coming soon) for a detailed tutorial with output examples and the motivation behind stocksymbol.
+Check out this [blog post](https://yonghongtan.medium.com/download-list-of-all-stock-symbols-using-this-python-package-12937073b25) (free link [here](https://yonghongtan.medium.com/download-list-of-all-stock-symbols-using-this-python-package-12937073b25?source=friends_link&sk=0d0305ab61ea7a71b47e7c8cec01c74e)) for a detailed tutorial with output examples and the motivation behind stocksymbol.
 
