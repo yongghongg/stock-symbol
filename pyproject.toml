@@ -1,5 +1,6 @@
 [build-system]
 requires = [
+    "requests",
     "setuptools>=54",
     "wheel"
 ]
